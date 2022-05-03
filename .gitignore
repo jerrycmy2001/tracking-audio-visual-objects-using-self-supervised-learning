@@ -1,0 +1,9 @@
+__pycache__
+AVSpeechDownloader
+inference
+kinetics-dataset
+test
+test*
+model.pt
+loss.png
+clear*
